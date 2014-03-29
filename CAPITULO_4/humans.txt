@@ -1,0 +1,21 @@
+/*José Alfredo Moreno Mtz.*/
+
+/*TEAM*/
+	Creator: José Alfredo Moreno
+	Contacte: 
+	Correo: Joss_wolf89[at]hotmail.com
+	From:Mexico city, México
+
+/*IN MEMORIAL*/
+	Bryan
+
+/*THANKES*/
+	_______________
+
+/*SITE*/
+
+	Last update:07/02/13
+	Languaje: Español
+	Standars:HTML5, CSS3, JavaScript
+	Components:jQuery
+	Software:
